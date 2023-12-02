@@ -1,0 +1,13 @@
+{
+    "name": "Custom ruleset",
+    "includedRuleSets": [
+        {
+            "action": "Default",
+            "path": "https://vrabadevops.blob.core.windows.net/rulesets/default.ruleset.json"
+        },
+        {
+            "action": "Default",
+            "path": "https://vrabadevops.blob.core.windows.net/rulesets/pte.ruleset.json"
+        }
+    ]
+}

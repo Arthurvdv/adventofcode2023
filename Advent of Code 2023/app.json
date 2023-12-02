@@ -11,6 +11,13 @@
   "url": "",
   "logo": "",
   "dependencies": [],
+  "internalsVisibleTo": [
+    {
+      "id": "3f8ef3b9-b0d6-4042-96dc-f7d7f30a6ce4",
+      "publisher": "Arthurvdv",
+      "name": "Advent of Code 2023.Test"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
